@@ -1,0 +1,63 @@
+<annotation>
+    <filename>20231226-083204.jpg</filename>
+    <folder>cafe</folder>
+    <source>
+        <database>cafe</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mylove apple</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30</xmin>
+            <ymin>168</ymin>
+            <xmax>572</xmax>
+            <ymax>725</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>jetty</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>810</xmin>
+            <ymin>206</ymin>
+            <xmax>1001</xmax>
+            <ymax>714</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>paldo shikhye</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1020</xmin>
+            <ymin>203</ymin>
+            <xmax>1212</xmax>
+            <ymax>699</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>IdH (pear juice)</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>577</xmin>
+            <ymin>252</ymin>
+            <xmax>795</xmax>
+            <ymax>721</ymax>
+        </bndbox>
+    </object>
+</annotation>

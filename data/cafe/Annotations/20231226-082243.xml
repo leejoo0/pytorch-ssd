@@ -1,0 +1,51 @@
+<annotation>
+    <filename>20231226-082243.jpg</filename>
+    <folder>cafe</folder>
+    <source>
+        <database>cafe</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mylove apple</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>822</xmin>
+            <ymin>271</ymin>
+            <xmax>1052</xmax>
+            <ymax>722</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>jetty</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>90</xmin>
+            <ymin>104</ymin>
+            <xmax>458</xmax>
+            <ymax>730</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>paldo shikhye</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>473</xmin>
+            <ymin>196</ymin>
+            <xmax>747</xmax>
+            <ymax>727</ymax>
+        </bndbox>
+    </object>
+</annotation>

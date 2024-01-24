@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20231226-082844.jpg</filename>
+    <folder>cafe</folder>
+    <source>
+        <database>cafe</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>IdH (pear juice)</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>625</xmin>
+            <ymin>225</ymin>
+            <xmax>782</xmax>
+            <ymax>419</ymax>
+        </bndbox>
+    </object>
+</annotation>

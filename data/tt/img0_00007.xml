@@ -1,0 +1,38 @@
+<annotation>
+    <filename>img0_00007.jpg</filename>
+    <folder>t</folder>
+    <source>
+        <database>t</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+<size>
+    <width>2160</width>
+    <height>3840</height>
+    <depth>3</depth>
+</size>
+    <segmented>0</segmented>
+<object>
+    <name>67</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+<bndbox>
+        <xmin>16.34765625</xmin>
+        <ymin>179.0625</ymin>
+        <xmax>2145.234375</xmax>
+        <ymax>3738.75</ymax>
+</bndbox>
+</object>
+<object>
+    <name>47</name>
+    <pose>unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+<bndbox>
+        <xmin>665.5078125</xmin>
+        <ymin>939.84375</ymin>
+        <xmax>1528.2421875</xmax>
+        <ymax>2769.375</ymax>
+</bndbox>
+</object>

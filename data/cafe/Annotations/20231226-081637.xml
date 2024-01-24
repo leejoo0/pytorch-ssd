@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20231226-081637.jpg</filename>
+    <folder>cafe</folder>
+    <source>
+        <database>cafe</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>paldo shikhye</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>935</xmin>
+            <ymin>488</ymin>
+            <xmax>1294</xmax>
+            <ymax>726</ymax>
+        </bndbox>
+    </object>
+</annotation>
