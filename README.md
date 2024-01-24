@@ -11,12 +11,13 @@ For documentation, please refer to the following:
 
 #[캔 모델 실행방법]
 
-- 경로 이동
+경로 이동
 cd python/training/detection/ssd/
 
 
 캔 모델은 cafe로 지정해 두었습니다.
--명령어
+
+모델 실행명령어
 detectnet --model=models/cafe/ssd-mobilenet.onnx --labels=models/cafe/labels.txt --input-blob=input_0 --output-cvg=scores --output-bbox=boxes csi://0
 
 
